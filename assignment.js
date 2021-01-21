@@ -32,7 +32,7 @@ function budgetCalculator(watch, phone, laptop){
     total = total + price;
     return total;
 }
-console.log(budgetCalculator(watch, phone, laptop));
+// console.log(budgetCalculator(watch, phone, laptop));
 
      //  (3rd problem)
 
